@@ -16,3 +16,5 @@ I am Mr. Wai Yan Kyaw and I live in **Yangon** with my family. I have four membe
 
 ### ***Education***
 Now I am studying a master degree of **Telecommunications** in [Riga Technical University](https://www.rtu.lv/en)I have graduated in Computer Technology(B.C.Tech) specialized in [Communication and Networking Systems](https://www.uit.edu.mm/faculty-of-computer-systems-and-technologies/communication-and-networking-systems/) from [University of Information Technology](https://www.uit.edu.mm) in Myanmar. After finishing a bachelor degree, I wanted to study a master degree abroad. That is why I chose to study a master program in Riga Technical University.
+
+HELLO EVERYONE
