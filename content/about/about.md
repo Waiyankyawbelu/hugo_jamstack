@@ -14,7 +14,7 @@ Our country's area is 676,578 km2 and the population is 53,582,855. Most of the 
 
 I am Mr. Wai Yan Kyaw and I live in **Yangon** with my family. I have four members of family. My father is Mr. Kyaw Kyaw Oo who is a trader and my mother is Mrs. Tin Tin Than who is a teacher and my younger brother is Mr. Hlyan Htet Kyaw who is a third year student of computer science in Myanmar.In my leisure time, I like reading, watching movies and learning new technology.
 
-### ***Education***
+### ***Education Background***
 Now I am studying a master degree of **Telecommunications** in [Riga Technical University](https://www.rtu.lv/en)I have graduated in Computer Technology(B.C.Tech) specialized in [Communication and Networking Systems](https://www.uit.edu.mm/faculty-of-computer-systems-and-technologies/communication-and-networking-systems/) from [University of Information Technology](https://www.uit.edu.mm) in Myanmar. After finishing a bachelor degree, I wanted to study a master degree abroad. That is why I chose to study a master program in Riga Technical University.
 
 
