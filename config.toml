@@ -1,0 +1,74 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Home"
+theme = "sourgough-starter"
+relativeURLs = true
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+#------------- Config -------------------
+    dimensionsLink = true
+    dimensionCitations = true
+    backgroundPath = "images/SA_back.JPG"
+    footerOffset = -60
+
+#-------------- Defined ------------
+    css= ["css/sourgough.css"]
+
+[menu]
+#----- Navbar links ------
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+
+#----- NavBottom Links ------
+  [[menu.bot]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/Waiyankyawbelu/"
+    pre = "fab fa-github"
+
+  [[menu.bot]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/wai-yan-kyaw-6b7182167/"
+    pre = "fab fa-linkedin-in"
+
+  [[menu.bot]]
+    identifier = "facebook"
+    name = "Facebook"
+    url = "https://www.facebook.com/waiyan.kyaw.948/"
+    pre = " fab fa-facebook"
+
+
+
+#-------- About section links -----
+
+  [[menu.about]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/waiyankyawbelu"
+    pre = "fab fa-twitter"
+
+  [[menu.about]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/wai_yan_kyaw96/"
+    pre = "fab fa-instagram"
+
+
+
+
+#----------- Text Links -------
+  [[menu.link]]
+    identifier = "email"
+    name = "waiyankyawbelu@gmail.com"
+    url = "mailto:waiyankyawbelu@gmail.com"
